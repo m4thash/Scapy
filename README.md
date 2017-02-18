@@ -1,5 +1,5 @@
 # Scapy
 MITM script
-Usage : python <FILENAME>.py
+Usage : python mitm.py
 
 NOTE: modify parameters as per your need.
